@@ -1,0 +1,9 @@
+library used:
+-ant design
+- react-redux
+- axios (for fetching apis)
+-chart.js
+-html-react-parser ( to parse html data)
+-millify (package to convert long numbers into human readable strings)
+-moment ( library for parsing, validating, manipulating and formatting dates)
+- react-chartjs-2 (to render those charts for chartjs in our react application)
